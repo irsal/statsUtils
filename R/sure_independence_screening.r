@@ -1,6 +1,6 @@
 #' Sure independence screening helper.
-#' TODO: Document better.
-#' @param dep_var numeric vector
+#'
+#' @param dep_var numeric vector.
 #' @param indep_var vector
 #' @param cutoff default is 0.05
 #' @param freq_cutoff default is 0.05
